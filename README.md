@@ -1,2 +1,3 @@
-# Coderbyte-React-Challenges
-Completed challenges from the Coderbyte React Interview Prep toolkit. 
+# Coderbyte-Challenges
+
+This is a repository of various completed Coderbyte challenges.
